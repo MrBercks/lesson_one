@@ -10,7 +10,7 @@ while (True):
 	question = input("Напиши мне (: ")
 	print (get_unswer(question))
 
-
+print()
 
 
 
